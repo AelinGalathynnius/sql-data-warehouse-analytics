@@ -6,20 +6,6 @@ This project shows how to build a complete Data Warehouse solution from raw data
 <img width="1536" height="1024" alt=" Image 17 de fev  de 2026, 05_58_52" src="https://github.com/user-attachments/assets/9aa2fc09-5784-43a7-b612-9b6f7b5a1325" />
 
 
-🏗️ Data Architecture
-The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
-
-Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
-Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
-Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
-📖 Project Overview
-This project involves:
-
-
-
-Take this github documentation and make it simpler: Data Warehouse and Analytics Project
-Welcome to the Data Warehouse and Analytics Project repository! 🚀
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
@@ -96,7 +82,8 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 
-Here’s a simpler, more humanized version of your GitHub documentation — keeping the meaning, but making it clearer and easier to read:
+H
+
 
 Data Warehouse & Analytics Project 🚀
 Welcome!
