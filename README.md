@@ -3,7 +3,8 @@
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
 This project shows how to build a complete Data Warehouse solution from raw data to business insights.
 
-<img width="1536" height="1024" alt=" Image 17 de fev  de 2026, 05_58_52" src="https://github.com/user-attachments/assets/9aa2fc09-5784-43a7-b612-9b6f7b5a1325" />
+<img width="1051" height="801" alt="image" src="https://github.com/user-attachments/assets/c7f1da7d-f224-47de-a036-e330b1d18a02" />
+
 
 
 
