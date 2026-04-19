@@ -7,47 +7,31 @@ This project shows how to build a complete Data Warehouse solution from raw data
 
 
 
-
-📖 What This Project Covers
-✔ Data Architecture
-Designing a modern data warehouse using Bronze, Silver, and Gold layers.
-
-✔ ETL Pipelines
-Extracting, transforming, and loading data into SQL Server.
-
-✔ Data Modeling
-Creating fact and dimension tables for analytical queries.
-
-✔ Analytics & Reporting
-Writing SQL queries to generate reports and business insights.
-
-
-
 Data Warehouse & Analytics Project 🚀
 Welcome!
 
 This project shows how to build a complete Data Warehouse solution — from raw data to business insights.
 
-It was created as a portfolio project to demonstrate real-world data engineering and analytics skills using SQL Server.
 
-🏗️ Data Architecture (How the Data Is Organized)
+
+### 🏗️ Data Architecture (How the Data Is Organized)
 This project follows the Medallion Architecture approach, with three layers:
 
-🥉 Bronze Layer – Raw Data
+### 🥉 Bronze Layer – Raw Data
 Stores data exactly as received from source systems
 
 Data comes from CSV files (ERP and CRM systems)
 
 Loaded into SQL Server
 
-🥈 Silver Layer – Clean Data
+### 🥈 Silver Layer – Clean Data
 Data is cleaned and standardized
 
 Fixes quality issues
 
 Prepares the data for analysis
 
-🥇 Gold Layer – Business-Ready Data
+### 🥇 Gold Layer – Business-Ready Data
 Data is modeled into a Star Schema
 
 Creates fact and dimension tables
