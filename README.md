@@ -10,7 +10,7 @@ This project shows how to build a complete Data Warehouse solution from raw data
 Data Warehouse & Analytics Project 🚀
 Welcome!
 
-This project shows how to build a complete Data Warehouse solution — from raw data to business insights.
+
 
 
 
