@@ -7,8 +7,7 @@ This project shows how to build a complete Data Warehouse solution from raw data
 
 
 
-Data Warehouse & Analytics Project 🚀
-Welcome!
+
 
 
 
@@ -95,6 +94,4 @@ data-warehouse-project/
 
 ---
 
-#### 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
