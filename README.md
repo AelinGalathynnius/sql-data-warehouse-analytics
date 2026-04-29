@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project shows how to build a complete Data Warehouse solution from raw data to business insights.
+Built a sales analytics warehouse from raw data to business insights to improve reporting speed and track revenue, customers, and product performance.
 
 <img width="1051" height="801" alt="image" src="https://github.com/user-attachments/assets/c7f1da7d-f224-47de-a036-e330b1d18a02" />
 
