@@ -11,7 +11,13 @@ Built a sales analytics warehouse from raw data to business insights to improve 
 
 
 
-
+## Business Goal
+Create a central data source for tracking sales performance, customers, and product trends.
+## Key Features
+- Data cleaning and transformation
+- Fact and dimension tables
+- Star schema modeling
+- SQL analytics queries
 
 ### 🏗️ Data Architecture (How the Data Is Organized)
 This project follows the Medallion Architecture approach, with three layers:
@@ -36,6 +42,17 @@ Data is modeled into a Star Schema
 Creates fact and dimension tables
 
 Optimized for reporting and analytics
+
+## Business Insights
+- Top-performing products
+- Sales trends over time
+- Customer segmentation
+- Regional performance
+
+## Project Impact
+- Improved reporting consistency
+- Faster analytics queries
+- Centralized business data
 
 ---
 
